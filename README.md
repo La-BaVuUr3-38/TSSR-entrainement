@@ -171,7 +171,7 @@ Tu es libre de l'utiliser, le modifier et le partager, y compris à des fins pé
 
 ## 👤 Auteur
 
-Développé dans le cadre d'une formation **TSSR**, en vue d'une spécialisation en **cybersécurité** (Bachelor puis Master).
+Développé dans le cadre d'une formation **TSSR**.
 
 **| By La-BaVuUr3-38 |**
 
